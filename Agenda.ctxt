@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=
+comment1.target=Agenda()
+comment2.params=
+comment2.target=Agenda\ getInstance()
+comment3.params=
+comment3.target=void\ scrieFisier()
+comment4.params=
+comment4.target=void\ citesteFisier()
+comment5.params=c
+comment5.target=void\ adaugaContact(Contact)
+comment6.params=
+comment6.target=void\ afiseazaContacte()
+comment7.params=index
+comment7.target=void\ stergeContact(int)
+numComments=8
